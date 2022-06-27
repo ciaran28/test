@@ -1,6 +1,6 @@
 # test
 
-``` yaml 
+```shell
 #
 # Run nginx container
 #
