@@ -8,7 +8,7 @@ root@docker-host-1:/home/localadmin# docker run -dit --name blue-c1 nginxdemos/h
 1c12c826586ff22e9569ca8a231e635afa60b294de7ec4b4b5bc99f6ca24520f
 
 #
-// list the container
+/ list the container
 #
 root@docker-host-1:/home/localadmin# docker ps
 CONTAINER ID   IMAGE              COMMAND                  CREATED          STATUS         PORTS     NAMES
