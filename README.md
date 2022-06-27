@@ -1,6 +1,6 @@
 # test
 
-```shell
+```console
 #
 # Run nginx container
 #
