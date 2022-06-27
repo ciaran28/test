@@ -1,6 +1,6 @@
 # test
 
-``` bash
+``` cpp
 #
 # Run nginx container
 #
