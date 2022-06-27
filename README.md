@@ -1,6 +1,6 @@
 # test
 
-``` bash
+``` python
 #
 # Run nginx container
 #
