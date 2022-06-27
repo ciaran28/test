@@ -1,6 +1,6 @@
 # test
 
-``` cpp
+``` python
 #
 # Run nginx container
 #
